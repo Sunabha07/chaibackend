@@ -33,7 +33,7 @@ app.get('/linkedin',(req,res) => {
     res.send('hello Sunabha Panda in your linkedin account heheheheheheh')
 })
 
-app.get('github',(req,res) => {
+app.get('/github',(req,res) => {
     res.json(gitData)
 })
 
