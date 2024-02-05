@@ -4,19 +4,8 @@ const app = express() // all the functionalities of express stored in this app v
 // const port = 3000  // server port
 
 const gitData = {
-    Sunabha
-    panda bultu mamata saitkat 
-    jfhgkhn
-    jkjgfkj 
-    kdfjhfbnftbhkj 
-    ihbfghbvbn 
-    ijfhvuifh 
-    ijkbifdhjbvui 
-    kjmfbij 
-    jhfuhg 
-    bhjtuhu 
-     ijifghjbi 
-
+   "location": "India"
+ 
 }
 
 app.get('/', (req, res) => {  // 
